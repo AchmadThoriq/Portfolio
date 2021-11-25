@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio data analytics
+Portfolio data analytics from Achmad Thoriq Aminullah
 
 # Project 1: Melbourne House Segmentation using K-Means: Project Overviews
 
